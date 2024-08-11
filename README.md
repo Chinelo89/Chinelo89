@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with data analysts 
 - 🤔 I’m looking for help with data management and analytics
 - 💬 Ask me about Anything
-- 📫 How to reach me: (www.linkedin.com/in/chinelo-ezeani-416905263)
+- 📫 How to reach me:[Linkedin](www.linkedin.com/in/chinelo-ezeani-416905263)
 - 😄 Pronouns: She
 - ⚡ Fun fact: I like learning new things and developing myself
 
