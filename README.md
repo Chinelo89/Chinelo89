@@ -2,7 +2,7 @@
 ## I’m a Data Analyst 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on data analytics 
 - 🌱 I’m currently learning data analytics with Dahel Techies
