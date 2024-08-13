@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ## This is Chinelo Ezeani
-# I’m a Data Analyst  
+## I’m a Data Analyst  
 
 
 
