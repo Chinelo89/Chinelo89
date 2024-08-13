@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ## This is Chinelo Ezeani
-## I’m a Data Analyst 
+# I’m a Data Analyst  
 
 
 
@@ -11,6 +11,6 @@
 - 🤔 I’m looking for help with data management and analytics
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chinelo-ezeani-416905263/)
-- 😄 Pronouns: She
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like learning new things and developing myself
 
